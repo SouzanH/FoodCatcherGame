@@ -285,8 +285,8 @@ MonoBehaviour:
         m_RotationOrder: 4
       StartPos: {x: 0, y: 0, z: 0}
       EndPos: {x: 0, y: 200, z: 0}
-      StartWorldPos: {x: 189.5, y: 0, z: 0}
-      EndWorldPos: {x: 189.5, y: 200, z: 0}
+      StartWorldPos: {x: 393, y: 0, z: 0}
+      EndWorldPos: {x: 393, y: 200, z: 0}
     ScalePropetiesAnim:
       scaleEnabled: 0
       TweenCurveEnterScale:
@@ -3373,7 +3373,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Spieloptionen
+  m_Text: Zusatzoptionen
 --- !u!222 &1762902183
 CanvasRenderer:
   m_ObjectHideFlags: 0
